@@ -1,6 +1,6 @@
 # my-example-website
 
-FIXME
+This project is accompanied by a tutorial written at http://www.clojured.com/2013/04/writing-clojureclojurescript-web.html
 
 ## Prerequisites
 
